@@ -11,3 +11,4 @@ end
 
 my_all?([1,2,3]) do |i| 
   i < 2
+end
