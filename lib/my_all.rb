@@ -12,7 +12,6 @@ def my_all?(collection)
   else  
     TRUE
   end
-  
 end
 
 my_all?([1,2,3]) do |i| 
