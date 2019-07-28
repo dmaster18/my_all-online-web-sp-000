@@ -12,7 +12,7 @@ def my_all?(collection)
   else  
     TRUE
   end
-  block_return_values
+  
 end
 
 my_all?([1,2,3]) do |i| 
